@@ -1,4 +1,4 @@
-# Obhect Detection System 
+# Object Detection System 
 
 1) Run `make`
 
