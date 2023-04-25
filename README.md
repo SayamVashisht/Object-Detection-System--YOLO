@@ -1,4 +1,4 @@
-# Object Detection System 
+# Object Detection System - YOLO
 
 1) Run `make`
 
